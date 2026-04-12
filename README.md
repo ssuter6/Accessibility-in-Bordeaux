@@ -86,5 +86,4 @@ Les données utilisées proviennent de sources ouvertes (OpenStreetMap et donné
 Projet réalisé dans le cadre d’un travail personnel de remise à niveau en analyse spatiale et SIG.
 
 
-![Carte Lausanne](<img width="1918" height="871" alt="capture" src="https://github.com/user-attachments/assets/ee3a5239-ec98-4ae6-be5f-e61a0652f3b1" />
-)
+![Carte Lausanne](img/carte.png)
